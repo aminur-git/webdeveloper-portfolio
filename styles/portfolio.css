@@ -26,6 +26,21 @@ body {
 
 }
 
+.button-primary-invert{
+    border: 2px solid #FD6E0A;
+    border-radius: 10px;
+    background: #fff8f300;
+    color: #fff;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FD6E0A;
+    padding: 15px 35px;
+    cursor: pointer;
+    margin-left: 5px;
+
+
+}
+
 .section-title {
     text-align: center;
     color: #181818;
